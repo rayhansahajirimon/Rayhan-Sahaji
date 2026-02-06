@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { FiMenu, FiX } from "react-icons/fi";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaBluesky } from "react-icons/fa6";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -71,7 +72,7 @@ const Navbar = () => {
         {/* Social Icons */}
         <div className="hidden md:flex space-x-4">
           <a
-            href="https://github.com/codingmastr"
+            href="https://github.com/rayhansahajirimon"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#8245ec]"
@@ -79,12 +80,12 @@ const Navbar = () => {
             <FaGithub size={24} />
           </a>
           <a
-            href="https://www.linkedin.com/in/tarun-kaushik-553b441a4"
+            href="https://bsky.app/profile/rayhansahajirimon.bsky.social"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#8245ec]"
           >
-            <FaLinkedin size={24} />
+            <FaBluesky  size={24} />
           </a>
         </div>
 
@@ -122,7 +123,7 @@ const Navbar = () => {
             ))}
             <div className="flex space-x-4">
               <a
-                href="https://github.com/codingmastr"
+                href="https://github.com/rayhansahajirimon"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"
@@ -130,12 +131,12 @@ const Navbar = () => {
                 <FaGithub size={24} />
               </a>
               <a
-                href="https://www.linkedin.com/in/tarun-kaushik-553b441a4"
+                href="https://bsky.app/profile/rayhansahajirimon.bsky.social"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"
               >
-                <FaLinkedin size={24} />
+                <FaBluesky size={24} />
               </a>
             </div>
           </ul>

@@ -215,7 +215,7 @@ export const SkillsInfo = [
         "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
       image: githubdetLogo,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
-      github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
+      github: "https://github.com/rayhansahajirimon/GitHub-Profile-Search-App-Using-React-JS",
       webapp: "https://githubprofiledetective.netlify.app/",
     },
     {
@@ -225,7 +225,7 @@ export const SkillsInfo = [
         "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
       image: csprepLogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/CSPrep",
+      github: "https://github.com/rayhansahajirimon/CSPrep",
       webapp: "https://csprep.netlify.app/",
     },
     {
@@ -235,7 +235,7 @@ export const SkillsInfo = [
         "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
       image: movierecLogo,
       tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/Movie-Recommendation-App",
+      github: "https://github.com/rayhansahajirimon/Movie-Recommendation-App",
       webapp: "https://movie-recommendation-app-jet.vercel.app/",
     },
     {
@@ -245,7 +245,7 @@ export const SkillsInfo = [
         "An efficient and customizable NPM package for validating email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
       image: npmLogo,
       tags: ["React JS", "Node.js", "NPM", "Validation"],
-      github: "https://github.com/codingmastr/cmtk-email-validator",
+      github: "https://github.com/rayhansahajirimon/cmtk-email-validator",
       webapp: "https://www.npmjs.com/package/cmtk-email-validator",
     },
     {
@@ -255,7 +255,7 @@ export const SkillsInfo = [
         "A productivity-boosting Chrome extension designed to help users manage and remember their daily tasks. Built using JavaScript, it offers a simple interface with reminders and task notifications to keep users on track.",
       image: taskremLogo,
       tags: ["JavaScript", "Chrome Extension", "HTML", "CSS"],
-      github: "https://github.com/codingmastr/Task-Reminder-Tool",
+      github: "https://github.com/rayhansahajirimon/Task-Reminder-Tool",
       webapp: "chrome://extensions/?id=kngheeibjnnidhfoomkpnbeghackheci",
     },
     {
@@ -265,7 +265,7 @@ export const SkillsInfo = [
         "The official website for Webverse Digital, a creative digital marketing agency. Built using HTML, CSS, and JavaScript, it features visually appealing animations and a clean design to showcase the agency's services.",
       image: webverLogo,
       tags: ["HTML", "CSS", "JavaScript", "Framer Motion"],
-      github: "https://github.com/codingmastr/Webverse-Digital",
+      github: "https://github.com/rayhansahajirimon/Webverse-Digital",
       webapp: "https://webversedigital.com/",
     },
     {
@@ -285,7 +285,7 @@ export const SkillsInfo = [
         "A React.js-based image search application that allows users to search and download high-quality images from the web. Built using external APIs to ensure a vast library of results for various queries.",
       image: imagesearchLogo,
       tags: ["React JS", "API", "Search Feature", "CSS", "Javascript"],
-      github: "https://github.com/codingmastr/Image-Search-App",
+      github: "https://github.com/rayhansahajirimon/Image-Search-App",
       webapp: "https://imagsearch.netlify.app/",
     },
     {
@@ -295,7 +295,7 @@ export const SkillsInfo = [
         "An efficient background removal app built with React.js and API integration. Users can upload any image, remove the background, and download the transparent version for further use.",
       image: removebgLogo,
       tags: ["React JS", "API", "Image Processing", "HTML", "CSS", "Javascript"],
-      github: "https://github.com/codingmastr/Image-Background-Remover",
+      github: "https://github.com/rayhansahajirimon/Image-Background-Remover",
       webapp: "https://removeyourbg.netlify.app/",
     },
   ];  

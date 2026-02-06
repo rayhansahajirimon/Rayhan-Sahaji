@@ -1,5 +1,6 @@
 import React from "react";
 import { FaFacebook, FaTwitter, FaLinkedin, FaInstagram, FaYoutube } from "react-icons/fa";
+import { FaBluesky } from "react-icons/fa6";
 
 const Footer = () => {
   // Smooth scroll function
@@ -38,11 +39,9 @@ const Footer = () => {
         {/* Social Media Icons - Responsive */}
         <div className="flex flex-wrap justify-center space-x-4 mt-6">
           {[
-            { icon: <FaFacebook />, link: "https://www.facebook.com/tarun.kaushik.3511041/" },
-            { icon: <FaTwitter />, link: "https://twitter.com/CodingMaster6?s=09" },
-            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/tarun-kaushik-553b441a4" },
-            { icon: <FaInstagram />, link: "https://www.instagram.com/coding_.master/" },
-            { icon: <FaYoutube />, link: "https://www.youtube.com/codingmasteryt" },
+            { icon: <FaTwitter />, link: "https://x.com/sahaji56722" },
+            { icon: <FaBluesky />, link: "https://bsky.app/profile/rayhansahajirimon.bsky.social" },
+            { icon: <FaInstagram />, link: "https://www.instagram.com/rayh.ansahajirimon/" },
 
           ].map((item, index) => (
             <a
